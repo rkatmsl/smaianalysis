@@ -1,3 +1,6 @@
 docx
 python-docx
 agno
+google-genai
+openai
+load-dotenv
