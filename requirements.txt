@@ -6,3 +6,4 @@ openai
 load-dotenv
 google-generativeai
 openpyxl
+tabulate
